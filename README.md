@@ -1,48 +1,61 @@
-<h1 align="center" style="color:#e36209;">👋 Hello, I'm <span style="color:#1f6feb;">Shubham Kashid</span></h1>
+<h1 align="center">👋 Hi there! I'm <span style="color:#1f6feb;">Shubham Kashid</span></h1>
+<p align="center">🚀 Software Engineer | 💻 Full Stack Developer | 📊 Tech Enthusiast</p>
 
-<p align="center" style="color:#6f42c1;">A passionate Software Engineer who loves turning ideas into real-world software.</p>
-
----
-
-<h2 style="color:#f66a0a;">💼 Summary</h2>
-
-<p style="color:#22863a;">
-Motivated and hardworking software developer with experience in Java, HTML, CSS, JavaScript, and SQL.
-Built a full-stack Inventory Management System to automate small-business inventory workflows.
+<p align="center">
+  <a href="mailto:kashids961@gmail.com"><img src="https://img.shields.io/badge/email-kashids961@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/shubham-kashid-80a52b2ab"><img src="https://img.shields.io/badge/linkedin-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
-<h2 style="color:#d73a49;">🧠 Skills</h2>
+## 🧑‍💻 About Me
 
-<ul style="color:#24292f;">
-  <li><strong style="color:#005cc5;">Languages:</strong> Java, JavaScript</li>
-  <li><strong style="color:#6f42c1;">Web:</strong> HTML, CSS, AJAX, JSON</li>
-  <li><strong style="color:#0366d6;">Tools & Frameworks:</strong> Node.js, Express.js, Git, Jira</li>
-  <li><strong style="color:#e36209;">Database:</strong> MySQL, SQL</li>
-</ul>
+- 🎓 B.Sc. in Computer Science from Sangola College  
+- 💼 Passionate about solving real-world problems through clean code  
+- 🌱 Currently building backend projects with **Node.js**, **Express**, and **MySQL**  
+- 🛠️ Strong in **Java**, **JavaScript**, and building responsive UIs with **HTML/CSS**
 
 ---
 
-<h2 style="color:#6a737d;">📁 Projects</h2>
+## 🧠 Skills & Tools
 
-<h3 style="color:#0366d6;">📌 Inventory Management System</h3>
-<ul style="color:#24292f;">
-  <li>🔧 Built frontend UI and backend logic</li>
-  <li>📦 Product/Stock tracking with reporting</li>
-  <li>🛠️ Tech: Java, HTML, CSS, JavaScript, SQL</li>
-</ul>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-<h2 style="color:#0e8a16;">📫 Contact</h2>
+## 🚀 Project Highlight
 
-<p style="color:#24292f;">
-📧 <strong>Email:</strong> <a href="mailto:kashids961@gmail.com">kashids961@gmail.com</a><br>
-🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/shubham-kashid-80a52b2ab" target="_blank">shubham-kashid</a><br>
-📄 <strong>Resume:</strong> <a href="ShubhamKashid.pdf" target="_blank">View PDF</a>
+### 📦 Inventory Management System
+
+A full-stack web app to manage inventory for vendors and local businesses.
+
+- 🧩 Tech Stack: Java, HTML/CSS, JavaScript, MySQL
+- 🔧 Features: Product CRUD, stock tracking, daily/weekly reporting
+- 🏗️ Role: UI design, backend logic, database integration
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashidshubham143&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashidshubham143&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-<p align="center" style="color:#8e44ad;">✨ Let's build something amazing together!</p>
+## 📫 Contact Me
+
+📧 Email: [kashids961@gmail.com](mailto:kashids961@gmail.com)  
+🔗 LinkedIn: [shubham-kashid](https://linkedin.com/in/shubham-kashid-80a52b2ab)  
+📄 [Resume (PDF)](ShubhamKashid.pdf)
+
+---
+
+<p align="center">✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</p>
