@@ -1,13 +1,15 @@
 <!-- Header Banner -->
+<h1 align="center">👋 Hi there! I'm <span style="color:#1f6feb;">Shubham Kashid</span></h1>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B+I'm+Shubham+Kashid;Java+%7C+JavaScript+%7C+Node.js+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=440&lines=🚀 Software Engineer | 💻 Full Stack Developer | 📊 Tech Enthusiast;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="mailto:kashids961@gmail.com"><img src="https://img.shields.io/badge/email-kashids961@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://linkedin.com/in/shubham-kashid-80a52b2ab"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
----
+
 
 ## 🧑‍💻 About Me
 
