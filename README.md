@@ -1,6 +1,8 @@
 <!-- Header Banner -->
 <h1 align="center">
-  👋 Hi there! I'm <span style="color:#1f6feb;">Shubham Kashid  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=🌟+Welcome to+ my GitHub+ Profile!;" alt="Typing SVG" />
+  👋 Hi there! I'm <span style="color:#1f6feb;">Shubham Kashid 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=🌟+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+
 </h1>
 
 <h1 align="center">
