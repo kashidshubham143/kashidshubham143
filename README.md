@@ -1,13 +1,11 @@
 <!-- Header Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B+I'm+Shubham+Kashid;Java+%7C+Jva;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  👋 Hi there! I'm <span style="color:#1f6feb;">Shubham Kashid
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0e75b6&height=160&section=header&text=%F0%9F%9A%80%20Software%20Engineer%20%7C%20%F0%9F%92%BB%20Full%20Stack%20Developer%20%7C%20%F0%9F%93%8A%20Tech%20Enthusiast&fontSize=26&fontColor=ffffff" />
-</p>
-
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=440&lines=Java Full Stack Developer+%7C;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="mailto:kashids961@gmail.com"><img src="https://img.shields.io/badge/email-kashids961@gmail.com-red?style=for-the-badge&logo=gmail"></a>
