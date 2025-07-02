@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Sc. in Computer Science from Sangola College  
+- 🎓 B.Sc. in Computer Science from Sangola College Sangola
 - 💼 Passionate about solving real-world problems through clean code  
 - 🌱 Currently building backend projects with **Node.js**, **Express**, and **MySQL**  
 - 🛠️ Strong in **Java**, **JavaScript**, and building responsive UIs with **HTML/CSS**
