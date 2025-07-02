@@ -21,8 +21,17 @@
 ## 🧠 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,js,nodejs,html,css,mysql,git,jira" />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,mysql,git,jira" />
 </p>
+🚀 Technical Skills
+💻 Programming Languages & Frameworks
+Java HTML CSS SQL JavaScript Git MySQL GitHub Jira
+
+🖥️ Operating Systems
+Windows Linux
+
+🧰 Developer Tools
+VS Code Eclipse IntelliJ IDEA Git
 
 ---
 
