@@ -9,7 +9,7 @@
 
 ---
 
-  🧑‍💻 About Me
+<h3>🧑‍💻 About Me</h3>
 
 🎓 I’m a Computer Science graduate (2024) from Sangola College, Sangola  
 💡 I enjoy building full-stack applications that solve real-world problems  
