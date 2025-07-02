@@ -1,10 +1,10 @@
 <!-- Header Banner -->
 <h1 align="center">
-  👋 Hi there! I'm <span style="color:#1f6feb;">Shubham Kashid
+  👋 Hi there! I'm <span style="color:#1f6feb;">Shubham Kashid  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=🌟+Welcome to+ my GitHub+ Profile!;" alt="Typing SVG" />
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=🚀+Java+Full+Stack+Developer;🌟+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=🚀+Java+Full+Stack+Developer;" alt="Typing SVG" />
 </h1>
 
 
@@ -14,7 +14,7 @@
 </p>
 
 
-<p align="center">## 🧑‍💻 About Me</p>
+ 🧑‍💻 About Me
 
 🎓 I’m a Computer Science graduate (2024) from Sangola College Sangola <br>
 💡 I enjoy building full-stack applications that solve real-world problems  
@@ -23,22 +23,22 @@
 
 ---
 
-<p align="center">## 🚀 Skills & Tools</p>
+ 🚀 Skills & Tools
 
-<p align="center">### 🖥️ Languages & Web</p>
+ 🖥️ Languages & Web
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p align="center">### ⚙️ Backend & Database</p>
+⚙️ Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-<p align="center">### 🛠 Tools</p>
+🛠 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kashidshubham143&show_icons=true&theme=react&count_private=true" height="160"/>
@@ -55,9 +55,9 @@
 
 ---
 
-## 📂 Featured Project
+ 📂 Featured Project
 
-### 🧾 Inventory Management System
+ 🧾 Inventory Management System
 
 > A full-stack application to manage inventory, built using:
 - 👨‍💻 Java, HTML, CSS, JavaScript, MySQL
@@ -66,7 +66,7 @@
 
 ---
 
-## 📫 Contact Me
+  📫 Contact Me
 
 📧 **Email**: [kashids961@gmail.com](mailto:kashids961@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/shubham-kashid-80a52b2ab](https://linkedin.com/in/shubham-kashid-80a52b2ab)  
