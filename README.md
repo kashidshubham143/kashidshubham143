@@ -21,7 +21,7 @@
 ## 🧠 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,js,nodejs,html,css,mysql,git,jira" />
 </p>
 
 ---
@@ -56,9 +56,4 @@
 - 🔗 [LinkedIn](https://linkedin.com/in/shubham-kashid-80a52b2ab)
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100px">
-</p>
-
-<p align="center"><b>Thanks for visiting! Let's connect 💬</b></p>
+✨ “Code is like humor. When you have to explain it, it’s bad.” ✨
