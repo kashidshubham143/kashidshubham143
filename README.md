@@ -1,5 +1,7 @@
 <!-- Header Banner -->
-<h1 align="center">👋 Hi there! I'm <span style="color:#1f6feb;">Shubham Kashid</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B+I'm+Shubham+Kashid;Java+%7C+JavaScript+%7C+Node.js+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0e75b6&height=160&section=header&text=%F0%9F%9A%80%20Software%20Engineer%20%7C%20%F0%9F%92%BB%20Full%20Stack%20Developer%20%7C%20%F0%9F%93%8A%20Tech%20Enthusiast&fontSize=26&fontColor=ffffff" />
