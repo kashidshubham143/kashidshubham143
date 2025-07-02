@@ -1,12 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=👋 Hi,%20I'm%20Shubham%20Kashid!&fontSize=36&fontAlign=center&fontColor=:#1f6feb" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=👋 Hi,%20I'm%20Shubham%20Kashid!&fontSize=36&fontAlign=center&fontColor=#1f6feb" />
 </p>
 
 <p align="center">
   <a href="mailto:kashids961@gmail.com"><img src="https://img.shields.io/badge/Email-kashids961@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/shubham-kashid-80a52b2ab"><img src="https://img.shields.io/badge/LinkedIn-shubham--kashid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="ShubhamKashid.pdf"><img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 
 ---
