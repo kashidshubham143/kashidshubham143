@@ -8,13 +8,6 @@
 </h1>
 
 
-
-<p align="center">
-  <a href="mailto:kashids961@gmail.com"><img src="https://img.shields.io/badge/email-kashids961@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/shubham-kashid-80a52b2ab"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
-
-
  🧑‍💻 About Me
 
 🎓 I’m a Computer Science graduate (2024) from Sangola College Sangola <br>
@@ -22,7 +15,6 @@
 🛠️ I specialize in backend & RESTful APIs using Java and Node.js  
 📈 I recently developed an Inventory Management System for local vendors
 
----
 
  🚀 Skills & Tools
 
@@ -45,7 +37,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
 
  📊 GitHub Stats
 
@@ -54,7 +45,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kashidshubham143&theme=react" height="160"/>
 </p>
 
----
+
 
  📂 Featured Project
 
@@ -65,7 +56,6 @@
 - 🛠 CRUD operations with reporting system
 - 📊 Used by vendors for real-time stock tracking
 
----
 
   📫 Contact Me
 
