@@ -1,7 +1,7 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=👋 Hi,%20I'm%20Shubham%20Kashid!&fontSize=36&fontAlign=center&fontColor=#1f6feb" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hi%2C+I'm+Shubham+Kashid!;🚀+Full+Stack+Developer;💻+Java+%7C+Node.js+%7C+MySQL+%7C+JavaScript+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="mailto:kashids961@gmail.com"><img src="https://img.shields.io/badge/Email-kashids961@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -71,7 +71,3 @@
 ---
 
 ✨ “Code is like humor. When you have to explain it, it’s bad.” ✨
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
-</p>
