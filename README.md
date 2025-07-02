@@ -1,55 +1,53 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B+I'm+Shubham+Kashid;Java+%7C+JavaScript+%7C+Node.js+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hi%2C+I'm+Shubham+Kashid!;🚀+Full+Stack+Developer;💻+Java+%7C+Node.js+%7C+MySQL+%7C+JavaScript+%7C+HTML+%7C+CSS" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="mailto:kashids961@gmail.com"><img src="https://img.shields.io/badge/email-kashids961@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/shubham-kashid-80a52b2ab"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:kashids961@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kashids961@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shubham-kashid-80a52b2ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="ShubhamKashid.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-important?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-✨ I’m a **Software Engineer** passionate about solving real-world problems with code.  
-🚀 Built projects using **Java**, **JavaScript**, **MySQL**, and **Node.js**.  
-📊 I love working on full-stack applications and automating workflows.  
-📍 Based in India | 📧 [kashids961@gmail.com](mailto:kashids961@gmail.com)
+- 🎓 Bachelor of Computer Science | Sangola College (69.62%)
+- 🌱 I love building full-stack applications using Java, Node.js, MySQL, and frontend tech like HTML, CSS, JS
+- 📦 I’ve built an **Inventory Management System** that automates product tracking and reports for vendors
+- 🤝 I'm open to freelance, internship, or junior developer opportunities
 
 ---
 
-## 🧠 Skills & Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,mysql,git,jira" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,express,mysql,html,css,git" />
 </p>
-🚀 Technical Skills
-💻 Programming Languages & Frameworks
-Java HTML CSS SQL JavaScript Git MySQL GitHub Jira
-
-🖥️ Operating Systems
-Windows Linux
-
-🧰 Developer Tools
-VS Code Eclipse IntelliJ IDEA Git
 
 ---
 
-## 🚀 Projects
+## 📂 Projects
 
-### 📦 Inventory Management System
+### 📌 Inventory Management System
 
-- 🛠️ Full-stack web app for product/stock management
-- 🧩 Tech: Java, HTML, CSS, JS, SQL
-- 📈 Features: Add/update/delete products, stock tracking, report generation
+> 💼 **Role**: Full-stack Developer  
+> 🧩 **Tech**: Java, MySQL, HTML, CSS, JavaScript  
+> 📊 **Features**: Add/update/delete products, stock tracking, reports
 
 ---
 
-## 📈 GitHub Stats & Streaks
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashidshubham143&theme=tokyonight&show_icons=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kashidshubham143&theme=tokyonight" height="160"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kashidshubham143&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kashidshubham143&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -58,11 +56,21 @@ VS Code Eclipse IntelliJ IDEA Git
 
 ---
 
-## 📄 Resume & Contact
+## 📝 Resume
 
-- 📄 [Download My Resume](ShubhamKashid.pdf)
-- 📧 Email: [kashids961@gmail.com](mailto:kashids961@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/shubham-kashid-80a52b2ab)
+📄 Download: [ShubhamKashid.pdf](ShubhamKashid.pdf)
+
+📫 Email: [kashids961@gmail.com](mailto:kashids961@gmail.com)
+
+🔗 [LinkedIn](https://linkedin.com/in/shubham-kashid-80a52b2ab)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">
+</p>
+
+<p align="center"><strong>“First, solve the problem. Then, write the code.”</strong></p>
 
 ---
 ✨ “Code is like humor. When you have to explain it, it’s bad.” ✨
