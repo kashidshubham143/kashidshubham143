@@ -1,76 +1,78 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hi%2C+I'm+Shubham+Kashid!;🚀+Full+Stack+Developer;💻+Java+%7C+Node.js+%7C+MySQL+%7C+JavaScript+%7C+HTML+%7C+CSS" alt="Typing SVG" />
-</h1>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hi,%20I'm%20Shubham%20Kashid!&fontSize=36&fontAlign=center&fontColor=ffffff" />
+</p>
 
 <p align="center">
-  <a href="mailto:kashids961@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kashids961@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/shubham-kashid-80a52b2ab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="ShubhamKashid.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-important?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
+  <a href="mailto:kashids961@gmail.com"><img src="https://img.shields.io/badge/Email-kashids961@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/shubham-kashid-80a52b2ab"><img src="https://img.shields.io/badge/LinkedIn-shubham--kashid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="ShubhamKashid.pdf"><img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Bachelor of Computer Science | Sangola College (69.62%)
-- 🌱 I love building full-stack applications using Java, Node.js, MySQL, and frontend tech like HTML, CSS, JS
-- 📦 I’ve built an **Inventory Management System** that automates product tracking and reports for vendors
-- 🤝 I'm open to freelance, internship, or junior developer opportunities
+🎓 I’m a Computer Science graduate (2024) from Sangola College  
+💡 I enjoy building full-stack applications that solve real-world problems  
+🛠️ I specialize in backend & RESTful APIs using Java and Node.js  
+📈 I recently developed an Inventory Management System for local vendors
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 Skills & Tools
+
+### 🖥️ Languages & Web
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,express,mysql,html,css,git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kashidshubham143&show_icons=true&theme=react&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kashidshubham143&theme=react" height="160"/>
 </p>
 
 ---
 
-## 📂 Projects
+## 📂 Featured Project
 
-### 📌 Inventory Management System
+### 🧾 Inventory Management System
 
-> 💼 **Role**: Full-stack Developer  
-> 🧩 **Tech**: Java, MySQL, HTML, CSS, JavaScript  
-> 📊 **Features**: Add/update/delete products, stock tracking, reports
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kashidshubham143&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kashidshubham143&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashidshubham143&theme=tokyonight" />
-</p>
+> A full-stack application to manage inventory, built using:
+- 👨‍💻 Java, HTML, CSS, JavaScript, MySQL
+- 🛠 CRUD operations with reporting system
+- 📊 Used by vendors for real-time stock tracking
 
 ---
 
-## 📝 Resume
+## 📫 Contact Me
 
-📄 Download: [ShubhamKashid.pdf](ShubhamKashid.pdf)
-
-📫 Email: [kashids961@gmail.com](mailto:kashids961@gmail.com)
-
-🔗 [LinkedIn](https://linkedin.com/in/shubham-kashid-80a52b2ab)
+📧 **Email**: [kashids961@gmail.com](mailto:kashids961@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/shubham-kashid-80a52b2ab](https://linkedin.com/in/shubham-kashid-80a52b2ab)  
+📄 **Resume**: [Download PDF](ShubhamKashid.pdf)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
 </p>
 
-<p align="center"><strong>“First, solve the problem. Then, write the code.”</strong></p>
-
----
 ✨ “Code is like humor. When you have to explain it, it’s bad.” ✨
