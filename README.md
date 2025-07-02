@@ -18,7 +18,7 @@
 
 ---
 
-  🚀 Skills & Tools
+  <h3>🚀 Skills & Tools</h3>
 
  🖥️ Languages & Web
 
@@ -41,7 +41,7 @@
 
 ---
 
-  📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kashidshubham143&show_icons=true&theme=react&count_private=true" height="160"/>
@@ -50,9 +50,7 @@
 
 ---
 
-  📂 Featured Project
-
-  🧾 Inventory Management System
+<h3>🧾 Inventory Management System</h3>
 
 > A full-stack application to manage inventory, built using:
 
@@ -62,7 +60,7 @@
 
 ---
 
-  📫 Contact Me
+<h3>📫 Contact Me</h3>
 
 📧 **Email**: [kashids961@gmail.com](mailto:kashids961@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/shubham-kashid-80a52b2ab](https://linkedin.com/in/shubham-kashid-80a52b2ab)  
