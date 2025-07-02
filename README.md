@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Hi,%20I'm%20Shubham%20Kashid!&fontSize=36&fontAlign=center&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=👋 Hi,%20I'm%20Shubham%20Kashid!&fontSize=36&fontAlign=center&fontColor=:#1f6feb" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 I’m a Computer Science graduate (2024) from Sangola College  
+🎓 I’m a Computer Science graduate (2024) from Sangola College Sangola 
 💡 I enjoy building full-stack applications that solve real-world problems  
 🛠️ I specialize in backend & RESTful APIs using Java and Node.js  
 📈 I recently developed an Inventory Management System for local vendors
@@ -71,8 +71,8 @@
 
 ---
 
+✨ “Code is like humor. When you have to explain it, it’s bad.” ✨
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
 </p>
-
-✨ “Code is like humor. When you have to explain it, it’s bad.” ✨
