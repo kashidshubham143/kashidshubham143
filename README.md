@@ -2,8 +2,9 @@
 <h1 align="center">👋 Hi there! I'm <span style="color:#1f6feb;">Shubham Kashid</span></h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=%F0%9F%9A%80%20Software%20Engineer%20%7C%20%F0%9F%92%BB%20Full%20Stack%20Developer%20%7C%20%F0%9F%93%8A%20Tech%20Enthusiast&fontSize=26&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0e75b6&height=160&section=header&text=%F0%9F%9A%80%20Software%20Engineer%20%7C%20%F0%9F%92%BB%20Full%20Stack%20Developer%20%7C%20%F0%9F%93%8A%20Tech%20Enthusiast&fontSize=26&fontColor=ffffff" />
 </p>
+
 
 
 <p align="center">
