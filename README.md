@@ -4,8 +4,9 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=440&lines=Java Full Stack Developer+%7C;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=🚀+Java+Full+Stack+Developer;🌟+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <a href="mailto:kashids961@gmail.com"><img src="https://img.shields.io/badge/email-kashids961@gmail.com-red?style=for-the-badge&logo=gmail"></a>
@@ -72,5 +73,6 @@
 📄 **Resume**: [Download PDF](ShubhamKashid.pdf)
 
 ---
-
+<p align="center">
 ✨ “Code is like humor. When you have to explain it, it’s bad.” ✨
+</p>
