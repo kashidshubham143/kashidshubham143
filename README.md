@@ -1,25 +1,31 @@
-# 👋 Hi, I'm Shubham Kashid
+<h1 style="color:#007acc;">👋 Hi, I'm <span style="color:#e36209;">Shubham Kashid</span></h1>
 
-📧 Email: kashids961@gmail.com  
-📱 Mobile: +91 9890157552  
-🔗 [LinkedIn](https://linkedin.com/in/shubham-kashid-80a52b2ab)
+<p><strong><span style="color:#22863a;">🎓 Software Engineer</span></strong> with experience in Java, HTML, CSS, JavaScript, Node.js, and MySQL.</p>
 
-## 🧑‍💻 About Me
+<p>🚀 Built a full-stack <strong style="color:#6f42c1;">Inventory Management System</strong> to manage products and reporting.</p>
 
-Motivated and hardworking Software Engineer with practical experience in building web applications using Java, HTML, CSS, JavaScript, and SQL. Built a full-stack **Inventory Management System** to manage products, stock, and reports for local businesses.
+<p>
+  📧 <span style="color:#d73a49;">Email:</span> <a href="mailto:kashids961@gmail.com">kashids961@gmail.com</a>  
+  <br>
+  🔗 <span style="color:#0366d6;">LinkedIn:</span> <a href="https://linkedin.com/in/shubham-kashid-80a52b2ab" target="_blank">shubham-kashid</a>  
+  <br>
+  📄 <span style="color:#6f42c1;">Resume:</span> <a href="ShubhamKashid.pdf" target="_blank">View PDF</a>
+</p>
 
-## 🚀 Skills
+---
 
-- Languages: Java, JavaScript
-- Web: HTML, CSS, AJAX, JSON
-- Frameworks/Tools: Node.js, Express.js, Git, Jira
-- Database: MySQL, SQL
+## <span style="color:#f66a0a;">💡 Skills</span>
 
-## 📂 Projects
+- 🟦 Java, JavaScript
+- 🌐 HTML, CSS, AJAX, JSON
+- ⚙️ Node.js, Express.js, Git, Jira
+- 🗄️ MySQL, SQL
 
-### Inventory Management System
-- Developed frontend UI and backend logic
-- Added product management, stock tracking, and reports
-- Tech: Java, HTML, CSS, JavaScript, SQL
+---
 
-## 📄 [View My Resume](ShubhamKashid.pdf)
+## <span style="color:#6a737d;">📂 Projects</span>
+
+### 📌 <span style="color:#0366d6;">Inventory Management System</span>
+- ✔️ Developed full-stack web app
+- ✔️ Product/stock management & reports
+- ✔️ Tech Used: Java, HTML, CSS, JavaScript, SQL
